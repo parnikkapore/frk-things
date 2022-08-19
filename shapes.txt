@@ -4,3 +4,4 @@ rectangle
 pentagon
 square
 triangle
+star
