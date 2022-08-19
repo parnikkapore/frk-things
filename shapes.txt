@@ -1,5 +1,6 @@
 circle
 oval
 rectangle
+pentagon
 square
 triangle
